@@ -4,4 +4,4 @@ Recently my friend [Vika](https://vk.com/id189504202) applied to the Erasmus pro
 
 ### How to launch the project
 
-Just open `index.html` in any browser :)
+Just open `index.html` from `src/` directory in any browser :)
